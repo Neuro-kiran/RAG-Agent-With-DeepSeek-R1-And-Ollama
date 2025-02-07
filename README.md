@@ -1,1 +1,1 @@
-# RAG-Agent-With-DeepSeek-R1-And-Ollama
+# Gen-AI-With-Deep-Seek-R1
